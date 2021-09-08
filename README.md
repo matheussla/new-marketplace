@@ -1,4 +1,4 @@
 # new-marketplace
 
-**[Miro](https://miro.com/app/board/o9J_lybK2B0=/)**
+**[Miro Kanban](https://miro.com/app/board/o9J_lybK2B0=/)**
 
