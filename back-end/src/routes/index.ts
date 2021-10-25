@@ -9,6 +9,7 @@ const routes = Router();
 
 routes.use('/generateAuth', auth);
 routes.use('/clients', client);
+routes.use('/sellers', client);
 routes.use('/products', authentication, product);
 
 export default routes;
