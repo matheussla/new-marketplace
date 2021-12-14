@@ -1,4 +1,4 @@
-# new-marketplace
+# New Marketplace
 
 [SITE URL](https://new-marketplace.netlify.app/)
 
